@@ -42,7 +42,7 @@ If you're unclear about any of the instructions below, remember that you can che
 - [ ] Create the following `article` element with JavaScript and add at the end of the `section.posts` element.
   ```html
   <article>
-    <img
+    <img 
       src="./images/paul-gilmore-unsplash.jpg"
       alt="Image of a mountain in front of a lake."
     />
